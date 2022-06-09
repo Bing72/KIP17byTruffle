@@ -59932,7 +59932,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-06-09T15:43:34.681Z",
+  "updatedAt": "2022-06-09T17:35:16.902Z",
   "devdoc": {
     "details": "Required interface of an KIP17 compliant contract.",
     "methods": {

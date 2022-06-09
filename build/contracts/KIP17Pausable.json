@@ -60060,7 +60060,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-06-09T15:43:34.951Z",
+  "updatedAt": "2022-06-09T17:35:17.174Z",
   "devdoc": {
     "details": "KIP17 modified with pausable transfers.",
     "methods": {

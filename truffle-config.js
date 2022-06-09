@@ -45,7 +45,7 @@ module.exports = {
 			provider: new HDWalletProvider(PRIVATE_KEY, URL),
 			network_id: 1001,
 			gas: 20000000,
-			gasPrice: 25000000000,
+			gasPrice: null,
 		},
     //
     // An additional network, but with some advanced options…

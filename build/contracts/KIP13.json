@@ -59686,7 +59686,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-06-09T15:43:34.776Z",
+  "updatedAt": "2022-06-09T17:35:16.996Z",
   "devdoc": {
     "details": "Implementation of the `IKIP13` interface. * Contracts may inherit from this and call `_registerInterface` to declare their support of an interface.",
     "methods": {

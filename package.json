@@ -14,5 +14,8 @@
   "devDependencies": {
     "dotenv": "^16.0.1",
     "truffle-hdwallet-provider-klaytn": "^1.4.2"
+  },
+  "dependencies": {
+    "@klaytn/contracts": "^1.0.2"
   }
 }

@@ -60027,7 +60027,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-06-09T15:43:34.925Z",
+  "updatedAt": "2022-06-09T17:35:17.149Z",
   "devdoc": {
     "details": "KIP17 minting logic.",
     "methods": {

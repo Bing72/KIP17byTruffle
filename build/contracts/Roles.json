@@ -59660,7 +59660,7 @@
   },
   "networks": {},
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-06-09T15:43:35.099Z",
+  "updatedAt": "2022-06-09T17:35:17.320Z",
   "devdoc": {
     "details": "Library for managing addresses assigned to a Role.",
     "methods": {},
